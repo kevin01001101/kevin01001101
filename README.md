@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevin01001101
 - 👀 I’m interested in software development.  Using computers to make people's jobs and  lives easier.
 - 🌱 I’m currently learning about WebAuth, decentralized projects like ActivityPub, SOLID, DIDs (Decentralized Identities).
--- Next up is Blazor, catching up with .NET 5.0, Home Automation projects
+- Next up is Blazor, catching up with .NET 5.0, Home Automation projects
 - 📫 How to reach me ...
 
 <!---
